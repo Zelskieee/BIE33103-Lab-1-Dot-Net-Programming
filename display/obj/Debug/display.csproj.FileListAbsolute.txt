@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\display\display\bin\Debug\display.exe.config
+C:\Users\Zelggx Arif\source\repos\display\display\bin\Debug\display.exe
+C:\Users\Zelggx Arif\source\repos\display\display\bin\Debug\display.pdb
+C:\Users\Zelggx Arif\source\repos\display\display\obj\Debug\display.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\display\display\obj\Debug\display.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\display\display\obj\Debug\display.exe
+C:\Users\Zelggx Arif\source\repos\display\display\obj\Debug\display.pdb

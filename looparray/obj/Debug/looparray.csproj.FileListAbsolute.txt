@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\looparray\looparray\bin\Debug\looparray.exe.config
+C:\Users\Zelggx Arif\source\repos\looparray\looparray\bin\Debug\looparray.exe
+C:\Users\Zelggx Arif\source\repos\looparray\looparray\bin\Debug\looparray.pdb
+C:\Users\Zelggx Arif\source\repos\looparray\looparray\obj\Debug\looparray.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\looparray\looparray\obj\Debug\looparray.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\looparray\looparray\obj\Debug\looparray.exe
+C:\Users\Zelggx Arif\source\repos\looparray\looparray\obj\Debug\looparray.pdb

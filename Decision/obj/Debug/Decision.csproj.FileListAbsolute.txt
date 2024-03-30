@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\Decision\Decision\bin\Debug\Decision.exe.config
+C:\Users\Zelggx Arif\source\repos\Decision\Decision\bin\Debug\Decision.exe
+C:\Users\Zelggx Arif\source\repos\Decision\Decision\bin\Debug\Decision.pdb
+C:\Users\Zelggx Arif\source\repos\Decision\Decision\obj\Debug\Decision.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\Decision\Decision\obj\Debug\Decision.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\Decision\Decision\obj\Debug\Decision.exe
+C:\Users\Zelggx Arif\source\repos\Decision\Decision\obj\Debug\Decision.pdb

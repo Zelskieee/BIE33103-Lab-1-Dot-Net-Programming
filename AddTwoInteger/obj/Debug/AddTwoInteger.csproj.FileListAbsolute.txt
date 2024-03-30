@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\AddTwoInteger\AddTwoInteger\bin\Debug\AddTwoInteger.exe.config
+C:\Users\Zelggx Arif\source\repos\AddTwoInteger\AddTwoInteger\bin\Debug\AddTwoInteger.exe
+C:\Users\Zelggx Arif\source\repos\AddTwoInteger\AddTwoInteger\bin\Debug\AddTwoInteger.pdb
+C:\Users\Zelggx Arif\source\repos\AddTwoInteger\AddTwoInteger\obj\Debug\AddTwoInteger.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\AddTwoInteger\AddTwoInteger\obj\Debug\AddTwoInteger.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\AddTwoInteger\AddTwoInteger\obj\Debug\AddTwoInteger.exe
+C:\Users\Zelggx Arif\source\repos\AddTwoInteger\AddTwoInteger\obj\Debug\AddTwoInteger.pdb

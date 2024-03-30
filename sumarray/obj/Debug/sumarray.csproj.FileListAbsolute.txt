@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\sumarray\sumarray\bin\Debug\sumarray.exe.config
+C:\Users\Zelggx Arif\source\repos\sumarray\sumarray\bin\Debug\sumarray.exe
+C:\Users\Zelggx Arif\source\repos\sumarray\sumarray\bin\Debug\sumarray.pdb
+C:\Users\Zelggx Arif\source\repos\sumarray\sumarray\obj\Debug\sumarray.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\sumarray\sumarray\obj\Debug\sumarray.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\sumarray\sumarray\obj\Debug\sumarray.exe
+C:\Users\Zelggx Arif\source\repos\sumarray\sumarray\obj\Debug\sumarray.pdb

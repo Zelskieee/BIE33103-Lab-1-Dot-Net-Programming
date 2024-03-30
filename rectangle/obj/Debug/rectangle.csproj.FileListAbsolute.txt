@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\rectangle\rectangle\bin\Debug\rectangle.exe.config
+C:\Users\Zelggx Arif\source\repos\rectangle\rectangle\bin\Debug\rectangle.exe
+C:\Users\Zelggx Arif\source\repos\rectangle\rectangle\bin\Debug\rectangle.pdb
+C:\Users\Zelggx Arif\source\repos\rectangle\rectangle\obj\Debug\rectangle.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\rectangle\rectangle\obj\Debug\rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\rectangle\rectangle\obj\Debug\rectangle.exe
+C:\Users\Zelggx Arif\source\repos\rectangle\rectangle\obj\Debug\rectangle.pdb

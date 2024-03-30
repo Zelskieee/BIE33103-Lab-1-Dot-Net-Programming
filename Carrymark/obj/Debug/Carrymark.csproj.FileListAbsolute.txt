@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\Carrymark\Carrymark\bin\Debug\Carrymark.exe.config
+C:\Users\Zelggx Arif\source\repos\Carrymark\Carrymark\bin\Debug\Carrymark.exe
+C:\Users\Zelggx Arif\source\repos\Carrymark\Carrymark\bin\Debug\Carrymark.pdb
+C:\Users\Zelggx Arif\source\repos\Carrymark\Carrymark\obj\Debug\Carrymark.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\Carrymark\Carrymark\obj\Debug\Carrymark.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\Carrymark\Carrymark\obj\Debug\Carrymark.exe
+C:\Users\Zelggx Arif\source\repos\Carrymark\Carrymark\obj\Debug\Carrymark.pdb

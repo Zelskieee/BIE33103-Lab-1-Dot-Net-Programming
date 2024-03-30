@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\Nnumber\Nnumber\bin\Debug\Nnumber.exe.config
+C:\Users\Zelggx Arif\source\repos\Nnumber\Nnumber\bin\Debug\Nnumber.exe
+C:\Users\Zelggx Arif\source\repos\Nnumber\Nnumber\bin\Debug\Nnumber.pdb
+C:\Users\Zelggx Arif\source\repos\Nnumber\Nnumber\obj\Debug\Nnumber.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\Nnumber\Nnumber\obj\Debug\Nnumber.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\Nnumber\Nnumber\obj\Debug\Nnumber.exe
+C:\Users\Zelggx Arif\source\repos\Nnumber\Nnumber\obj\Debug\Nnumber.pdb

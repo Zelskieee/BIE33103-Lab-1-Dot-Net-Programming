@@ -1,0 +1,7 @@
+C:\Users\Zelggx Arif\source\repos\digit\digit\bin\Debug\digit.exe.config
+C:\Users\Zelggx Arif\source\repos\digit\digit\bin\Debug\digit.exe
+C:\Users\Zelggx Arif\source\repos\digit\digit\bin\Debug\digit.pdb
+C:\Users\Zelggx Arif\source\repos\digit\digit\obj\Debug\digit.csproj.AssemblyReference.cache
+C:\Users\Zelggx Arif\source\repos\digit\digit\obj\Debug\digit.csproj.CoreCompileInputs.cache
+C:\Users\Zelggx Arif\source\repos\digit\digit\obj\Debug\digit.exe
+C:\Users\Zelggx Arif\source\repos\digit\digit\obj\Debug\digit.pdb
